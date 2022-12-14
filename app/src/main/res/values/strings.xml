@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">JobService</string>
+    <string name="title_activity_nav_menu">NavMenuActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">UserName</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="create_post">Create post</string>
+    <string name="search_post">Search post</string>
+    <string name="messages">Messages</string>
+    <string name="settings">Settings</string>
+    <string name="log_out">Log out</string>
+    <string name="cancel">Cancel</string>
+    <string name="what_should_be_done">What should be done?</string>
+    <string name="task_name">Task name</string>
+    <string name="address">Address</string>
+    <string name="when_should_you_start_working">When should you start working?</string>
+    <string name="date">Date</string>
+    <string name="what_budget_are_you_looking_for">What budget are you looking for?</string>
+    <string name="specify_the_details">Specify the details</string>
+    <string name="description">Description</string>
+    <string name="publish">Publish</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="log_in">Log In</string>
+    <string name="register">Register</string>
+    <string name="username">Username</string>
+    <string name="type_a_message">Type a message...</string>
+    <string name="my_posts">My posts</string>
+</resources>
